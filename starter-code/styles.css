@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 1vw;
+}
+
+header {
+    padding: 20px;
+}
+
+.container-fluid { 
+    background-color: white;
+    border-color: black;
+}
+
+.row {
+    text-align: center;
+    padding: 1.5em;
+}
+
+.btn {
+    color: white;
+}
+
+.text-uppercase {
+    color: white;
+    font-size: 3em;
+    font-weight: 600;
+}
